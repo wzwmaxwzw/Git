@@ -4,6 +4,8 @@ public class TicketRunnable implements Runnable{
    private int ticketNum=10;
 //    Object obj=new Object();
 
+//    String s="abc";
+
     @Override
     public void run() {
         for(int i=0;i<100;i++){

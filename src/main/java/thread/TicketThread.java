@@ -3,6 +3,8 @@ package thread;
 public class TicketThread extends Thread{
     public static int ticketNum=10;
 
+//    String s="abc";
+
     public TicketThread() {
     }
 
